@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | Passionate about building scalable apps and beautiful user experiences  
 💼 Previously at **Trimble (SketchUp & Cloud)** and **Capital One**  
-📍 Based in Mexico | 🎓 CETYS Universidad - Cybernetic Electronic Engineering
+📍 Based in Mexico | 🎓 CETYS Universidad - Cybernetic Electronics Engineering
 
 ---
 
@@ -22,7 +22,7 @@ I love solving complex problems, automating workflows, and delivering polished u
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
 **Tools & Platforms**  
@@ -30,12 +30,6 @@ I love solving complex problems, automating workflows, and delivering polished u
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-
----
-
-## 📈 GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Payan&show_icons=true&theme=tokyonight)
 
 ---
 
