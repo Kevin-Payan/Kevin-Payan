@@ -18,6 +18,7 @@
 
 **Tools & Platforms**  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![](https://img.shields.io/badge/--181d24?logo=amazon-web-services&logoColor=white&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
