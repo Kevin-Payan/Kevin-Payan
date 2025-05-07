@@ -5,7 +5,6 @@
 🚀 Software Engineer | Passionate about coding  
 💼 Previously at **Trimble (SketchUp & Cloud)** and **Capital One**  
 🛠️ I love solving complex problems, automating workflows, and AI
-🎓 CETYS Universidad - Cybernetic Electronics Engineering
 
 ---
 
