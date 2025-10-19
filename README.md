@@ -10,15 +10,7 @@
 
 ## 🛠 Tech Stack
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
-
-**Tools**  
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=amazon-web-services&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Whatever gets the job done](https://img.shields.io/badge/Whatever%20gets%20the%20job%20done-1E3A8A?style=flat&logo=rocket&logoColor=white)
 
 ---
 
